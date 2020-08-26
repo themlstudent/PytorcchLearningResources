@@ -1,2 +1,2 @@
-# PytorcchLearningResources
-List of Pytorch Learning Resources
+# Pytorch Learning Resources
+
