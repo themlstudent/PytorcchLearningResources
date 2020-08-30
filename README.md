@@ -1,6 +1,5 @@
 # Pytorch Learning Resources
-![](/pytorch .png)
-
+!(/pytorch.png)
 ## Tutorials:
 
 1. [Official Pytorch Tutorials](https://github.com/pytorch/tutorials)
