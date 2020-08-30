@@ -1,5 +1,5 @@
 # Pytorch Learning Resources
-![](/pytorch.png)
+![](/pytorch .png)
 
 ## Tutorials:
 
