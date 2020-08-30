@@ -1,6 +1,8 @@
 # Pytorch Learning Resources
+![](/pytorch.png)
 
 ## Tutorials:
+
 1. [Official Pytorch Tutorials](https://github.com/pytorch/tutorials)
 2. [Official PyTorch Examples](https://github.com/pytorch/examples)
 3. [ Practical Deep Learning with PyTorch](https://github.com/ritchieng/deep-learning-wizard)
