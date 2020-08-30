@@ -2,4 +2,4 @@
 
 ## Tutorials:
 
-![ Official PyTorch Tutorials](https://github.com/pytorch/tutorials)
+![Official PyTorch Tutorials](https://github.com/pytorch/tutorials)
